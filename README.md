@@ -1,6 +1,6 @@
 # fluttertrackcorona
 
-A new Flutter application.
+A new Flutter application for tracking confirmed cases of COVID-19 in Assam State  .
 
 ## Getting Started
 
